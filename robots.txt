@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://haneuble.github.io/sitemap.html.gz
+Sitemap: https://haneuble.github.io/app/sitemap.html.gz
+Sitemap: https://haneuble.github.io/assets/sitemap.html.gz
+Sitemap: https://haneuble.github.io/css/sitemap.html.gz
+Sitemap: https://haneuble.github.io/includes/sitemap.html.gz
+Sitemap: https://haneuble.github.io/item/sitemap.html.gz
+Sitemap: https://haneuble.github.io/src/sitemap.html.gz
